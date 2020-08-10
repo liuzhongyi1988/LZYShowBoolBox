@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'LZYShowBoolBox_Example' do
+  pod 'LZYShowBoolBox', :path => '../'
+end

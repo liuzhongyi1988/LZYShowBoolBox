@@ -1,0 +1,6 @@
+framework module LZYShowBoolBox {
+  umbrella header "LZYShowBoolBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LZYShowBoolBox (0.1.0)
+
+DEPENDENCIES:
+  - LZYShowBoolBox (from `../`)
+
+EXTERNAL SOURCES:
+  LZYShowBoolBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZYShowBoolBox: f38dab0eeba824366b3d8fd0fa101f2c7f288418
+
+PODFILE CHECKSUM: 658dd2e944069a2214037be0e7b401f5d100c7ea
+
+COCOAPODS: 1.9.1
